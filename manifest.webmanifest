@@ -1,0 +1,16 @@
+{
+  "name": "Chain and Cue",
+  "short_name": "Chain & Cue",
+  "description": "Four daily systems drawn as anchor chains, and the identities they feed.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef0ea",
+  "theme_color": "#1d6c7c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
